@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.freeze.epitech.todolist.MainActivity">
+    <item
+        android:id="@+id/favorites"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_favorites"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/search"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/home"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_home"
+        app:showAsAction="ifRoom" />
+
+
+</menu>

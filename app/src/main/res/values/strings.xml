@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Epicture</string>
+    <string name="permission_necessary">We need permission</string>
+    <string name="ask_favorite">Do you want to favorite this image ?</string>
+    <string name="ask_remove_favorite">Do you want to remove this image from favorite ?</string>
+    <string name="ok">Ok</string>
+    <string name="storage_permission_is_necessary_to_wrote_event">Permission is necessary to wrote event</string>
+    <string name="title_activity_gallery">Gallery</string>
+</resources>
