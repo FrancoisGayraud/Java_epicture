@@ -1,9 +1,11 @@
 Projet Epicture :
+-------------
 
 - intégration de l'API d'Imgur
 
 
 Fonctionnalitées : 
+--------------
 
 - connexion à son compte Imgur
 - upload de photo
